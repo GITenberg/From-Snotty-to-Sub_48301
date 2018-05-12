@@ -1,16 +1,22 @@
 _repo: From-Snotty-to-Sub_48301
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Forester, Elspeth Lascelles
       gutenberg_agent_id: '44725'
       url: http://www.gutenberg.org/2009/agents/44725
+covers:
+- cover_type: archival
+  image_path: 48301-h/images/cover.jpg
 creator:
   author:
     agent_name: Forester, Wolstan Beaumont Charles Weld
     gutenberg_agent_id: '44724'
     url: http://www.gutenberg.org/2009/agents/44724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48301#From-Snotty-to-Sub
 gutenberg_issued: '2015-02-18'
 gutenberg_type: Text
 identifiers:
